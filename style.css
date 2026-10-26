@@ -14,14 +14,14 @@ body {
 
 /* 3. Ограничитель ширины контента */
 .container {
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 0 auto;
     padding: 0 20px;
 }
 
 /* 4. Шапка */
 header {
-    background: #fff;
+    background: #10fa79;
     padding: 20px 0;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
